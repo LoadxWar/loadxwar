@@ -1,9 +1,15 @@
 ### Hi there 👋 im loadxwar
 - 😄 I’m currently learning Javascript / html / css
-- 🔭 What i am currently useing ...
+- 🔭 What i am currently working with ...
 
-<img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css&logoColor=white"/> 
 <p>
+
+### i code discord bot's in
+
+
+
+
 <!--
 **LoadxWar/loadxwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,9 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?LoadxWar=sujalgoel&layout=compact&hide=html" alt="LoadxWar" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LoadxWar&show_icons=true" alt="LoadxWar" /></p>
-
-<p align="center">
-  </a>
-</p>
