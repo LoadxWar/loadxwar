@@ -1,5 +1,5 @@
 ### Hi there 👋 im loadxwar
--  I’m currently learning Javascript
+- 😄 I’m currently learning Javascript / html / css
 
 <!--
 **LoadxWar/loadxwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
