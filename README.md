@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoadxWar&layout=compact&hide=html" alt="LoadxWar" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LoadxWar&show_icons=true" alt="LoadxWar" /></p>
+<p align="center">
+    <a href="https://github.com/LoadxWar/github-quote">
+    <img src="https://github-quote.vercel.app/api?type=dark"/>
+  </a>
+</p>
