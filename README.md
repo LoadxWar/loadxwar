@@ -27,3 +27,14 @@ Here are some ideas to get you started:
 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LoadxWar&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoadxWar&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+### Some Discord bot codes made by repl.it
+
+### javascript 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LoadxWar&repo=discord-js--12.2.0)
+### Go 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LoadxWar&repo=discord-go-bot)
+### python 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LoadxWar&repo=Discord.py-simple-starter-1.3.4)
+
+ © loadxwar 2020
