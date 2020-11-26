@@ -28,10 +28,8 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LoadxWar&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoadxWar&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-### Some Discord bot codes made by repl.it
-
-
 
 
 <p align="center">&nbsp;<img align="center" src="https://discord.c99.nl/widget/theme-3/742426370541617224.png" alt="LoadxWar" /></p>
+<Br>
  © loadxwar 2020
