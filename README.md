@@ -5,6 +5,10 @@
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css&logoColor=white"/> 
 <p>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
+[![PugJS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/pug.png)](http://www.pugjs.org/) 
+
 
 ### i code discord bot's in
 <img src="https://img.shields.io/badge/discord.js%20-%23323330.svg?&style=for-the-badge&logo=discord.js&logoColor=%23F7DF1E"/>
