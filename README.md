@@ -30,12 +30,7 @@ Here are some ideas to get you started:
 
 ### Some Discord bot codes made by repl.it
 
-### javascript 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LoadxWar&repo=discord-js--12.2.0)(https://github.com/LoadxWar/discord-js--12.2.0)
-### Go 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LoadxWar&repo=discord-go-bot)(https://github.com/LoadxWar/discord-go-bot)
-### python 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LoadxWar&repo=Discord.py-simple-starter-1.3.4)(https://github.com/LoadxWar/Discord.py-simplestarter-1.3.4)
+
 
 
 <p align="center">&nbsp;<img align="center" src="https://discord.c99.nl/widget/theme-3/742426370541617224.png" alt="LoadxWar" /></p>
