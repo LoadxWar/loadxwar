@@ -1,4 +1,4 @@
-### 👋 Hello I am Loadxwar and I learn JavaScript, HTML ,CSS  and Pug. I am an Developer and I you can contact me in many ways. One of them being Discord, a really good chatting platform, my name and hashtag is LoadxWar#9529 (It might change).My Discord Server link is https://discord.gg/MyjuPk2 .You can also contact me on Instagram, Youtube & Twiter, all YOU have to do is search up Loadxwar!
+### 👋 Hello I am Loadxwar 
 
 ---
 
